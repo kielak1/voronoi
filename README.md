@@ -1,0 +1,2 @@
+# voronoi
+Generowanie diagramu voronoi
